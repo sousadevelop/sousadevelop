@@ -12,8 +12,8 @@
 
 <div>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-sousa-98783b188/">
-    <img height="180em" src="htts://github-readme-stats.vercel.app/api?username=sousadevelop&show_icon=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousadevelop&layout=compact&langs_count=16&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousadevelop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousadevelop&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 <!-- Contatos -->
@@ -44,9 +44,9 @@
 
  <h3> Back-end </h3>
 
- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
 
- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg"><hr>
+ <img align="center" alt="Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"><hr>
 
   
 
@@ -58,9 +58,9 @@
 
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 
- <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
 
- <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+ <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 
   
 
@@ -82,5 +82,7 @@
 <div>
 
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=sousadevelop&color=blue" alt="sousadevelop" /> <br>
+
+    ![Snake animation](https://github.com/sousadevelop)
 
 </div>  
