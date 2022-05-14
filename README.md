@@ -4,7 +4,7 @@
 
 - 🔭 Busco trabalhar como desenvolvedor Full-stack
 
-- 🌱 Estudo tecnologias como: HTML | CSS | Javascript | Node.js | React.js | SQL 
+- 🌱 Estudo tecnologias como: HTML | CSS | Javascript | Node.js | React.js | MySQL
 
 - 📫 Como chegar até mim ? Entre em contato comigo pelo e-mail: victtor.valerio@gmail.com
 
