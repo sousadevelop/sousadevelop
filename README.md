@@ -44,7 +44,11 @@
 
  <img align="center" alt="SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
 
- <img align="center" alt="Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"><hr>
+ <img align="center" alt="Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+
+ <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+ <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"><hr>
 
   
 
@@ -55,10 +59,6 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-
- <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
-
- <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 
   
 
