@@ -2,9 +2,9 @@
 
 <!-- Apresentação -->
 
-- 🔭 Busco trabalhar como desenvolvedor Full-stack
+- 🔭 Busco trabalhar como Pentest Web ou AppSec
 
-- 🌱 Estudo tecnologias como: HTML | CSS | Javascript | Node.js | React.js | MySQL
+- 🌱 Estudo tecnologias como: Python | Javascript | Node.js | PHP | Bash Script | MySQL
 
 - 📫 Como chegar até mim ? Entre em contato comigo pelo e-mail: victtor.valerio@gmail.com
 
@@ -21,8 +21,6 @@
   
 
  <div>   
-
- <a href="https://www.instagram.com/joaodevelop/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a> 
 
  <a href = "mailto:victtor.valerio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
