@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;Pentester+and+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br>
 </br>
-<img align="right" width="280" height="280" src="68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030362f3837332f3336312f6e6f6e5f32782f70726f6772616d6d65722d776f726b696e672d6f6e2d7765622d64657665.png">
+<img align="right" width="280" height="280" src="https://camo.githubusercontent.com/92392583ce7b37a66017ac50b28e5d1ecc923372b3bca0b31ddcfb22cb025615/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030362f3837332f3336312f6e6f6e5f32782f70726f6772616d6d65722d776f726b696e672d6f6e2d7765622d646576656c6f706d656e742d6f6e2d636f6d70757465722d636f6e636570742d766563746f722e6a7067">
 <img align="left" width="50" alt="about" src="https://img2.gratispng.com/20180420/uiq/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb1cbc180.1447455115242316018346.jpg?width=650&height=650"> <h2>About me</h2>
 
 ```Python
