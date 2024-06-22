@@ -7,7 +7,7 @@
 </br>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8" alt="about" style="width: auto; max-width: 50px; height: 10px; margin-right: 10px;">
+    <img src="https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8" alt="about" style="width: auto; max-width: 50px; height: 100px; margin-right: 10px;">
     <h2>About me</h2>
 </div>
 
