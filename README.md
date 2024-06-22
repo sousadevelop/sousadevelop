@@ -2,17 +2,23 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e314b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;TechnologicallyCurious+and+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;Technologically+Curious+and+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br>
 </br>
+<body>
+    <img class="header-img" src="https://capsule-render.vercel.app/api?type=waving&color=0e314b&height=120&section=header" alt="header image">
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8" alt="about" style="width: auto; max-width: 50px; height: 100px; margin-right: 10px;">
-    <h2>About me</h2>
-</div>
+    <a href="https://readme-typing-svg.herokuapp.com/" rel="noopener noreferrer" target="_blank">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;Pentester+and+Programming;Be+Welcome!+%29" />
+    </a>
 
-```Python
-class Right:
+    <div class="about-section">
+        <img src="https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8" alt="about" style="width: auto; max-width: 50px; height: 100px; margin-right: 10px;">
+        <h2>About me</h2>
+    </div>
+
+    <div class="code-section">
+        <pre><code>class Right:
     def __init__(self):
         self.nome = "João Victor S.S."
         self.graduacao = "Análise e Desenvolvimento de Sistemas"
@@ -22,7 +28,8 @@ class Right:
 
 if __name__ == "__main__":
     joao_victor = Right()
-```
+</code></pre>
+    </div>
 
 <h2 align="left">Tech Stack:</h2>
 
