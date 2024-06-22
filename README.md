@@ -44,7 +44,7 @@ if __name__ == "__main__":
 
 </p>
 
-<h2>CTF Player</h2>
+<h2>Player CTF</h2>
 <p align="left">
    <nav>
      <a href="https://tryhackme.com/p/joaovictor08" alt="Tryhackme">
