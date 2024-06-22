@@ -8,16 +8,16 @@
 <img align="left" width="50" alt="about" src="https://img2.gratispng.com/20180420/uiq/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb1cbc180.1447455115242316018346.jpg?width=650&height=650"> <h2>About me</h2>
 
 ```Python
-class Hacking:
+class Right:
     def __init__(self):
-        self.nome = "João Victor Sousa"
+        self.nome = "João Victor S.S."
         self.graduacao = "Análise e Desenvolvimento de Sistemas"
         self.certificacoes = "DCPT | CNSP"
         self.atuacao = "IT Technical Support"
-        self.hobby = "Automação"
+        self.hobby = "Automação | Data Analytics | Pentest | Read"
 
 if __name__ == "__main__":
-    joao_victor = Hacking()
+    joao_victor = Right()
 ```
 
 <h2 align="left">Tech Stack:</h2>
