@@ -5,9 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;Pentester+and+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br>
 </br>
-![hacker-sem-fundo](https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8)
 
-<img align="left" width="50" alt="about" src="https://img2.gratispng.com/20180420/uiq/kisspng-programmer-computer-programming-laptop-professiona-architectural-engineer-vector-material-5ad9edb1cbc180.1447455115242316018346.jpg?width=650&height=650"> <h2>About me</h2>
+<img align="left" width="50" alt="about" src="![BlueRabbit](https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8)"> <h2>About me</h2>
 
 ```Python
 class Right:
