@@ -1,12 +1,28 @@
 # ReadMe
 
+<style>
+        .about-section {
+            display: flex;
+            align-items: center;
+        }
+        .about-section img {
+            width: auto;
+            max-width: 50px;
+            height: auto;
+            margin-right: 10px;
+        }
+    </style>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e314b&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;Pentester+and+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </br>
 </br>
 
-<img align="left" width="50" alt="about" src="![BlueRabbit](https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8)"> <h2>About me</h2>
+<div class="about-section">
+    <img src="https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8" alt="about">
+    <h2>About me</h2>
+</div>
 
 ```Python
 class Right:
