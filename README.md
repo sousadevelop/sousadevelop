@@ -47,8 +47,17 @@ Meu foco é construir soluções práticas envolvendo:
 ## Certificações
 
 <p>
-  <img src="https://img.shields.io/badge/DCPT-Desec%20Certified%20Pentester-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/eWPTX-Web%20Application%20Pentest%20eXtreme-purple?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1GMyZplDiKpByAWf7B2cfVN1B3hUSkkUt/view?usp=sharing"
+     target="_blank"
+     title="Visualizar Certificação DCPT">
+    <img src="https://img.shields.io/badge/DCPT-Desec%20Certified%20Pentester-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+
+  <a href="https://certs.ine.com/7f91215b-0d91-4fdc-b835-564bf69f03c4#acc.oqnIfJ1K"
+     target="_blank"
+     title="Visualizar Certificação eWPTX">
+    <img src="https://img.shields.io/badge/eWPTX-Web%20Application%20Pentest%20eXtreme-purple?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -91,7 +100,7 @@ Meu foco é construir soluções práticas envolvendo:
 ### TryHackMe
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=SEU_USER_PUBLIC_ID" style="border:none;"></iframe>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=joaovictorss" style="border:none;"></iframe>
 </p>
 
 > Se o iframe não renderizar no GitHub, use o badge estático do TryHackMe no lugar. GitHub costuma bloquear alguns embeds. Porque claro, seria simples demais deixar funcionar.
@@ -152,10 +161,10 @@ Fixar estes tipos de repositórios na página principal:
 ## Contato
 
 <p>
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jo%C3%A3ovictorsousa/">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="SEU_LINK_MEDIUM">
+  <a href="https://medium.com/@joao.victtor">
     <img src="https://img.shields.io/badge/Medium-Artigos%20Técnicos-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
