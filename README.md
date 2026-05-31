@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/jo%C3%A3ovictorsousa/)">LinkedIn</a> •
-  <a href="[SEU_LINK_MEDIUM](https://medium.com/@joao.victtor)">Medium</a> •
+  <a href="https://www.linkedin.com/in/jo%C3%A3ovictorsousa/">LinkedIn</a> •
+  <a href="https://medium.com/@joao.victtor">Medium</a> •
   <a href="https://www.kaggle.com/joaovictorsousav">Kaggle</a> •
-  <a href="[https://tryhackme.com/p/SEU_USUARIO_TRYHACKME](https://tryhackme.com/p/joaovictorss)">TryHackMe</a>
+  <a href="https://tryhackme.com/p/joaovictorss">TryHackMe</a>
 </p>
 
 ---
