@@ -145,19 +145,6 @@ Meu foco é construir soluções práticas envolvendo:
 
 ---
 
-## Repositórios recomendados para fixar no perfil
-
-Fixar estes tipos de repositórios na página principal:
-
-1. Projeto de IA com RAG ou agente
-2. Projeto de análise de dados com dataset real
-3. Projeto de ciência de dados com notebook documentado
-4. Laboratório de pentest com relatório técnico
-5. Projeto DevOps com Docker/Kubernetes/Terraform
-6. Automação n8n documentada com caso de uso real
-
----
-
 ## Contato
 
 <p>
