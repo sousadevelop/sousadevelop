@@ -1,70 +1,161 @@
-# ReadMe
+<h1 align="center">João Victor Sousa | AI • Cybersecurity • Data • DevOps</h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e314b&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=164a71&size=32&center=true&vCenter=true&width=1000&height=35&lines=Hello,+my+name+is+João+Victor+;Technologically+Curious+and+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
-</br>
-</br>
-
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/sousadevelop/sousadevelop/assets/92130316/b10f3e5c-2e3a-4486-a08f-f3440c3417f8" alt="about" style="width: auto; max-width: 50px; height: 100px; margin-right: 10px;">
-    <h2>About me</h2>
-</div>
-
-```Python
-class Right:
-    def __init__(self):
-        self.nome = "João Victor S.S."
-        self.graduacao = "Análise e Desenvolvimento de Sistemas"
-        self.certificacoes = "DCPT | CNSP"
-        self.atuacao = "IT Technical Support"
-        self.hobby = "Automação | Data Analytics | Pentest | Read"
-
-if __name__ == "__main__":
-    joao_victor = Right()
-```
-
-<h2 align="left">Tech Stack:</h2>
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" height="37" width="49" alt="javascript logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" width="49" alt="python logo">
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="37" width="40" alt="php logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" width="49" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" width="48" alt="mysql logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg" height="37" width="48" alt="postgresql logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="37" width="49" alt="mongodb logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="37" width="49" alt="docker logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" height="37" width="49" alt="kubernetes logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="37" width="49" alt="terraform logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" width="49" alt="git logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" height="37" width="49" alt="linux logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="37" width="49" alt="windows logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="37" width="49" alt="Power BI logo"  />
-
+<p align="center">
+  <strong>Analista de Segurança da Informação</strong> focado em IA, Pentest, Infraestrutura, Automação, Redes, DevOps e Ciência de Dados.
 </p>
 
-<h2>Player CTF</h2>
-<p align="left">
-   <nav>
-     <a href="https://tryhackme.com/p/joaovictor08" alt="Tryhackme">
-    <img src="https://assets.tryhackme.com/img/THMlogo.png" with="35" height="40"/>
-    </a>
- </p>
- 
- 
-<h2>Connect with me:</h2>
-<p align="left">
-  <a href="https://medium.com/@joao.victtor" alt="Medium">
-    <img src="https://img.shields.io/badge/-medium-0e314b?style=for-the-badge&logo=medium&logoColor=FFFFFF&link=https://medium.com/@joao.victtor"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3ovictorsousa/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-linkedin-0e314b?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/jo%C3%A3ovictorsousa/"/>
+<p align="center">
+  <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
+  <a href="SEU_LINK_MEDIUM">Medium</a> •
+  <a href="https://www.kaggle.com/joaovictorsousav">Kaggle</a> •
+  <a href="https://tryhackme.com/p/SEU_USUARIO_TRYHACKME">TryHackMe</a>
+</p>
+
+---
+
+## Perfil técnico
+
+Atuo na intersecção entre **segurança ofensiva**, **infraestrutura**, **automação**, **dados** e **inteligência artificial**.
+
+Meu foco é construir soluções práticas envolvendo:
+
+- Análise de dados e dashboards
+- Ciência de dados aplicada
+- Pentest e segurança web
+- Cybersecurity e hardening
+- Infraestrutura e redes
+- DevOps e automação
+- Agentes de IA, RAG e workflows inteligentes
+
+---
+
+## Áreas de atuação
+
+| Área | Foco |
+|---|---|
+| 🧠 Inteligência Artificial | LLMs, agentes, RAG, automações inteligentes |
+| 📊 Análise de Dados | Python, SQL, Power BI, notebooks e dashboards |
+| 🔬 Ciência de Dados | Pandas, NumPy, exploração de dados e modelos |
+| 🛡️ Cybersecurity | Segurança web, hardening, análise de riscos |
+| 🎯 Pentest | Reconhecimento, exploração, relatórios e labs |
+| ⚙️ DevOps | Docker, Kubernetes, Terraform, Ansible |
+| 🌐 Infraestrutura | Linux, Windows, Active Directory, redes |
+| 🤖 Automação | n8n, scripts, integrações e rotinas operacionais |
+
+---
+
+## Certificações
+
+<p>
+  <img src="https://img.shields.io/badge/DCPT-Desec%20Certified%20Pentester-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/eWPTX-Web%20Application%20Pentest%20eXtreme-purple?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+</p>
+
+---
+
+## Stack principal
+
+### Linguagens e desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css" />
+</p>
+
+### Bancos de dados e análise
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Notebooks-orange?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+### DevOps, infraestrutura e sistemas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,linux,windows" />
+  <img src="https://img.shields.io/badge/Active%20Directory-Identity%20%26%20Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+### Automação e produtividade técnica
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-Knowledge%20Base-black?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+## Laboratórios e plataformas
+
+### TryHackMe
+
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=SEU_USER_PUBLIC_ID" style="border:none;"></iframe>
+</p>
+
+> Se o iframe não renderizar no GitHub, use o badge estático do TryHackMe no lugar. GitHub costuma bloquear alguns embeds. Porque claro, seria simples demais deixar funcionar.
+
+### Kaggle
+
+<p>
+  <a href="https://www.kaggle.com/joaovictorsousav">
+    <img src="https://img.shields.io/badge/Kaggle-joaovictorsousav-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
-<div align="center">
-  <a href="https://github.com/sousadevelop">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousadevelop&layout=compact&theme=radical"/>
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=sousadevelop&show_icons=true&theme=radical"/>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e314b&height=120&section=footer"/>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sousadevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousadevelop&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sousadevelop&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sousadevelop&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Projetos em destaque
+
+| Categoria | Tipo de projeto |
+|---|---|
+| 🧠 IA | Agentes, RAG, automações com LLMs e workflows inteligentes |
+| 📊 Dados | Análises com Python, SQL, Power BI e notebooks |
+| 🛡️ Segurança | Labs de pentest, writeups, segurança web e hardening |
+| ⚙️ DevOps | Infra como código, containers, CI/CD e orquestração |
+| 🤖 Automação | n8n, scripts operacionais e integrações |
+| 🌐 Infraestrutura | Linux, Windows Server, Active Directory e redes |
+
+---
+
+## Repositórios recomendados para fixar no perfil
+
+Fixar estes tipos de repositórios na página principal:
+
+1. Projeto de IA com RAG ou agente
+2. Projeto de análise de dados com dataset real
+3. Projeto de ciência de dados com notebook documentado
+4. Laboratório de pentest com relatório técnico
+5. Projeto DevOps com Docker/Kubernetes/Terraform
+6. Automação n8n documentada com caso de uso real
+
+---
+
+## Contato
+
+<p>
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_MEDIUM">
+    <img src="https://img.shields.io/badge/Medium-Artigos%20Técnicos-black?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
