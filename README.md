@@ -97,15 +97,15 @@ Meu foco é construir soluções práticas envolvendo:
 
 ## Laboratórios e plataformas
 
-### TryHackMe
+### 🏴TryHackMe
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=joaovictorss" style="border:none;"></iframe>
+  <a href="https://tryhackme.com/p/joaovictorss">
+    <img src="./assets/tryhackme-banner.png" alt="TryHackMe Banner" />
+  </a>
 </p>
 
-> Se o iframe não renderizar no GitHub, use o badge estático do TryHackMe no lugar. GitHub costuma bloquear alguns embeds. Porque claro, seria simples demais deixar funcionar.
-
-### Kaggle
+### 🎲 Kaggle
 
 <p>
   <a href="https://www.kaggle.com/joaovictorsousav">
