@@ -1,7 +1,7 @@
 <h1 align="center">João Victor Sousa | AI • Cybersecurity • Data • DevOps</h1>
 
 <p align="center">
-  <strong>Analista de Segurança da Informação</strong> focado em IA, Pentest, Infraestrutura, Automação, Redes, DevOps e Ciência de Dados.
+  <strong>Information Security Analyst</strong> focused on Artificial Intelligence, Pentesting, Infrastructure, Automation, Networking, DevOps, and Data Science.
 </p>
 
 <p align="center">
@@ -13,64 +13,64 @@
 
 ---
 
-## Perfil técnico
+## Technical Profile
 
-Atuo na intersecção entre **segurança ofensiva**, **infraestrutura**, **automação**, **dados** e **inteligência artificial**.
+I work at the intersection of **offensive security**, **infrastructure**, **automation**, **data**, and **artificial intelligence**.
 
-Meu foco é construir soluções práticas envolvendo:
+My focus is on building practical solutions involving:
 
-- Análise de dados e dashboards
-- Ciência de dados aplicada
-- Pentest e segurança web
-- Cybersecurity e hardening
-- Infraestrutura e redes
-- DevOps e automação
-- Agentes de IA, RAG e workflows inteligentes
+- Data analysis and dashboards
+- Applied data science
+- Pentesting and web security
+- Cybersecurity and hardening
+- Infrastructure and networking
+- DevOps and automation
+- AI agents, RAG, and intelligent workflows
 
 ---
 
-## Áreas de atuação
+## Areas of Expertise
 
-| Área | Foco |
+| Area | Focus |
 |---|---|
-| 🧠 Inteligência Artificial | LLMs, agentes, RAG, automações inteligentes |
-| 📊 Análise de Dados | Python, SQL, Power BI, notebooks e dashboards |
-| 🔬 Ciência de Dados | Pandas, NumPy, exploração de dados e modelos |
-| 🛡️ Cybersecurity | Segurança web, hardening, análise de riscos |
-| 🎯 Pentest | Reconhecimento, exploração, relatórios e labs |
-| ⚙️ DevOps | Docker, Kubernetes, Terraform, Ansible |
-| 🌐 Infraestrutura | Linux, Windows, Active Directory, redes |
-| 🤖 Automação | n8n, scripts, integrações e rotinas operacionais |
+| 🧠 Artificial Intelligence | LLMs, AI agents, RAG, intelligent automation |
+| 📊 Data Analytics | Python, SQL, Power BI, notebooks, and dashboards |
+| 🔬 Data Science | Pandas, NumPy, data exploration, analytics, and machine learning |
+| 🛡️ Cybersecurity | Web security, hardening, and risk assessment |
+| 🎯 Pentesting | Reconnaissance, exploitation, reporting, and security labs |
+| ⚙️ DevOps | Docker, Kubernetes, Terraform, and Ansible |
+| 🌐 Infrastructure | Linux, Windows, Active Directory, and Networking |
+| 🤖 Automation | n8n, scripting, integrations, and operational workflows |
 
 ---
 
-## Certificações
+## Certifications
 
 <p>
   <a href="https://drive.google.com/file/d/1GMyZplDiKpByAWf7B2cfVN1B3hUSkkUt/view?usp=sharing"
      target="_blank"
-     title="Visualizar Certificação DCPT">
+     title="View DCPT Certification">
     <img src="https://img.shields.io/badge/DCPT-Desec%20Certified%20Pentester-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
   </a>
 
   <a href="https://certs.ine.com/7f91215b-0d91-4fdc-b835-564bf69f03c4#acc.oqnIfJ1K"
      target="_blank"
-     title="Visualizar Certificação eWPTX">
+     title="View eWPTX Certification">
     <img src="https://img.shields.io/badge/eWPTX-Web%20Application%20Pentest%20eXtreme-purple?style=for-the-badge&logo=securityscorecard&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Stack principal
+## Core Technology Stack
 
-### Linguagens e desenvolvimento
+### Programming Languages & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css" />
 </p>
 
-### Bancos de dados e análise
+### Databases & Analytics
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -79,14 +79,14 @@ Meu foco é construir soluções práticas envolvendo:
   <img src="https://img.shields.io/badge/Google%20Colab-Notebooks-orange?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-### DevOps, infraestrutura e sistemas
+### DevOps, Infrastructure & Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,linux,windows" />
   <img src="https://img.shields.io/badge/Active%20Directory-Identity%20%26%20Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### Automação e produtividade técnica
+### Automation & Technical Productivity
 
 <p>
   <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -95,9 +95,9 @@ Meu foco é construir soluções práticas envolvendo:
 
 ---
 
-## Laboratórios e plataformas
+## Labs & Platforms
 
-### 🏴TryHackMe
+### 🏴 TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/joaovictorss">
@@ -117,41 +117,25 @@ Meu foco é construir soluções práticas envolvendo:
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sousadevelop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousadevelop&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+### 🔥 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sousadevelop&theme=tokyonight&hide_border=true" />
 </p>
 
+### 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sousadevelop&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## Projetos em destaque
-
-| Categoria | Tipo de projeto |
-|---|---|
-| 🧠 IA | Agentes, RAG, automações com LLMs e workflows inteligentes |
-| 📊 Dados | Análises com Python, SQL, Power BI e notebooks |
-| 🛡️ Segurança | Labs de pentest, writeups, segurança web e hardening |
-| ⚙️ DevOps | Infra como código, containers, CI/CD e orquestração |
-| 🤖 Automação | n8n, scripts operacionais e integrações |
-| 🌐 Infraestrutura | Linux, Windows Server, Active Directory e redes |
-
----
-
-## Contato
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/jo%C3%A3ovictorsousa/">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Victor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@joao.victtor">
-    <img src="https://img.shields.io/badge/Medium-Artigos%20Técnicos-black?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Technical%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
